@@ -1,0 +1,23 @@
+body {
+    background-color:#FFF8EA
+    } 
+hr {
+    border: none;
+    border-top: 5px dotted #9E7676;
+    border-width: 5px;
+    width: 40%;
+    }
+h1 {
+   text-decoration-line: underline;
+   text-decoration-color: #815B5B;
+   text-decoration-style: wavy;
+   text-align: center;
+   color:#594545
+   }
+h3 {
+   text-decoration-line: underline;
+   text-decoration-color: #9E7676;
+   text-decoration-style: wavy;
+   text-align: center;
+   color:#815B5B
+   }
